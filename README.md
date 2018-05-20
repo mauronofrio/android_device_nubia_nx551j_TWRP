@@ -1,1 +1,1 @@
-# TWRP Device Tree For NUBIA NX549J
+# TWRP Device Tree For NUBIA NX551J
