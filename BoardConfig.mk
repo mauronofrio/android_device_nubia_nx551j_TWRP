@@ -14,7 +14,7 @@
 # limitations under the License.
 #
 
-LOCAL_PATH := device/nubia/NX551J
+LOCAL_PATH := device/nubia/nx551j
 
 # Architecture
 TARGET_ARCH := arm64

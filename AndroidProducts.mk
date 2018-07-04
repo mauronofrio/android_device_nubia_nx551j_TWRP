@@ -15,4 +15,4 @@
 #
 
 PRODUCT_MAKEFILES := \
-	$(LOCAL_DIR)/omni_NX551J.mk
+	$(LOCAL_DIR)/omni_nx551j.mk

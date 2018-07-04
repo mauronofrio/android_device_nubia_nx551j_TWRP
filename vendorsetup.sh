@@ -14,5 +14,5 @@
 # limitations under the License.
 #
 
-add_lunch_combo omni_NX551J-userdebug
-add_lunch_combo omni_NX551J-eng
+add_lunch_combo omni_nx551j-userdebug
+add_lunch_combo omni_nx551j-eng
